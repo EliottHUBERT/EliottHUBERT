@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EliottHUBERT
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning IT at SupAlta-Les Chartreux
 - 📫 How to reach me at e.hubert@eleve.leschartreux.net
 
 <!---
